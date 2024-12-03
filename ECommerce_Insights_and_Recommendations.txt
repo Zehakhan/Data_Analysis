@@ -1,0 +1,30 @@
+
+# E-Commerce Sales Insights and Customer Analysis
+
+## Overview
+This project is a deep-dive analysis of an e-commerce dataset, revealing key trends in revenue, customer behavior, and product performance over multiple years. By leveraging SQL and Python, we uncover actionable insights to guide strategic decision-making.
+
+---
+
+## Highlights
+- **Top Categories & Sellers**: Detailed breakdown of key revenue drivers.
+- **Year-over-Year Growth**: Insights into yearly performance fluctuations.
+- **Customer Analysis**: Identification of high-value customers across years.
+- **Cumulative Sales Trends**: Visualization of growth trajectory over time.
+
+---
+
+## Recommendations
+1. **Category Focus**: Increase investment in high-performing categories.
+2. **Customer Retention**: Develop loyalty programs for top customers.
+3. **Operational Review**: Address periods of declining growth to optimize operations.
+4. **Forecasting**: Use cumulative trends for predictive analysis.
+
+---
+
+## Technical Details
+- **Language**: SQL and Python
+- **Libraries**: Matplotlib, Seaborn, Pandas
+- **SQL Features**: Window Functions, Aggregations, Joins
+
+Explore the repository for detailed code and output visualizations!
